@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilara</h1>
 <h3 align="center">A developer from Turkey</h3>
-<img align ="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align ="right" alt="Coding" width="400" src="https://gifdb.com/images/high/capoo-cat-typing-on-desk-gh8k0cjf5hq4vy2p.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
