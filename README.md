@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilara</h1>
 <h3 align="center">A developer from Turkey</h3>
-<img align ="right" alt="Coding" width="400" src="https://medium.com/@jyotibalodhi/programmer-or-not-345df8ab4dbc">
+<img align ="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--422281207608337/">
 
 
 <h3 align="left">Connect with me:</h3>
